@@ -18,8 +18,8 @@ Former U.S. Army Military Intelligence Officer with 12 years of military experie
 
 | Project | Status |
 |---|---|
-| 01 - Phishing Email Investigation | Lab Completed |
-| 02 - Cyber Threat Intelligence Assessment | Planned |
+| [01 - Phishing Email Investigation](./01-Phishing-Investigation) | Completed |
+| [02 - Tusk Infostealer Investigation](./02-Tusk-Infostealer-Investigation) | Completed |
 | 03 - Splunk Security Log Analysis | Planned |
 | 04 - Insider Threat Investigation | Planned |
 | 05 - Network Traffic Analysis | Planned |
@@ -31,7 +31,15 @@ Former U.S. Army Military Intelligence Officer with 12 years of military experie
 - Email Header Analysis
 - Base64 Decoding
 - Indicator of Compromise (IOC) Identification
-
+- CyberDefenders
+- Kaspersky Threat Intelligence Portal
+- Securelist Threat Intelligence Research
+- MD5 and SHA256 Hash Analysis
+- Malware Campaign Analysis
+- Command and Control (C2) Infrastructure Identification
+- Domain and IP Address Investigation
+- IOC Defanging
+  
 ## Portfolio Objective
 Demonstrate the practical application of military intelligence experience and cybersecurity knowledge through hands-on investigations, technical analysis, and professional reporting.
 
